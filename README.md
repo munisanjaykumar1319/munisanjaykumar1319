@@ -30,11 +30,11 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=munisanjaykumar1319&show_icons=true&theme=github_dark)
+<img src="https://streak-stats.demolab.com?user=munisanjaykumar1319&theme=dark" />
 
 ## 💻 Most Used Languages
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=munisanjaykumar1319&layout=compact&theme=github_dark)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=munisanjaykumar1319&layout=compact&theme=dark" />
 
 <!--
 **munisanjaykumar1319/munisanjaykumar1319** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
