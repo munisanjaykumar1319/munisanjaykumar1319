@@ -34,8 +34,7 @@
 
 ## 💻 Most Used Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=munisanjaykumar1319&layout=compact&theme=dark" />
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=munisanjaykumar1319&layout=compact&theme=github_dark)
 <!--
 **munisanjaykumar1319/munisanjaykumar1319** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
