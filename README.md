@@ -1,3 +1,6 @@
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=30&center=true&vCenter=true&width=600&lines=Hi+I'm+Sanju+Reddy;AI+%2F+ML+Student;Python+Developer;OpenCV+Enthusiast;Welcome+to+my+GitHub+Profile" />
+</p>
 # Hi 👋 I'm Sanjay Kumar 
 
 🎓 AI / Machine Learning Student  
