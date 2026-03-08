@@ -14,12 +14,11 @@
 ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 ## 🔥 Skills
-- Python
-- Machine Learning
-- OpenCV
-- Git & GitHub
-- HTML / CSS
+## 🚀 Tech Stack
 
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,opencv,git,github,html,css,flask,tensorflow" />
+</p>
 ---
 
 ## 📌 Projects
@@ -31,8 +30,12 @@
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=munisanjaykumar1319&show_icons=true&theme=tokyonight)
+![Sanjay's GitHub stats](https://github-readme-stats.vercel.app/api?username=munisanjaykumar1319&show_icons=true&theme=tokyonight)
 
+
+## 💻 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=munisanjaykumar1319&layout=compact&theme=tokyonight)
 <!--
 **munisanjaykumar1319/munisanjaykumar1319** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
