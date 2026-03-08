@@ -9,7 +9,9 @@
 
 ---
 
-![snake animation](https://raw.githubusercontent.com/munisanjaykumar1319/munisanjaykumar1319-output/main/github-contribution-grid-snake.svg)
+## 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 ## 🔥 Skills
 - Python
