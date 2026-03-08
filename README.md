@@ -9,6 +9,8 @@
 
 ---
 
+![snake animation](https://raw.githubusercontent.com/munisanjaykumar1319/munisanjaykumar1319-output/main/github-contribution-grid-snake.svg)
+
 ## 🔥 Skills
 - Python
 - Machine Learning
